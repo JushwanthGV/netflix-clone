@@ -231,4 +231,3 @@ Open `NodeIP:30007` in your browser.
 - Terminate AWS EC2 instances that are no longer needed.
 ```
 
-You can now update your `README.md` file with this content.
